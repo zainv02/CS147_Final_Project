@@ -1,0 +1,30 @@
+File that esp32 reads every second:
+alarm: [0/1] #off is 0 on is 1
+mode: [0/1] #low is 0 high is 1
+door: [0/1] #off is 0 on is 1
+motion: [0/1] #off is 0 on is 1
+light: [0/1] #off is 0 on is 1
+
+
+
+User input for changing that file:
+Enter number for action:
+1 - Select security mode
+2 - Enable/disable sensors
+3 - Enable/disable alarm ringing
+
+Enter number for security mode:
+1 - High security mode
+2- Low security mode
+
+Enter number for enabling/disabling sensor
+1 - Door [disabled]
+2 - Motion [enabled]
+3 - Light [enabled]
+4 - quit
+
+Enter number for turning on/off alarm
+1 - Turn on alarm
+2 - Turn off alarm
+
+

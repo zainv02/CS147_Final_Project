@@ -1,0 +1,110 @@
+2023-06-02, 19:37:46 Alarm Activated Remote
+2023-06-02, 19:38:22 Alarm Activated Door
+2023-06-02, 19:38:37 Alarm Activated Remote
+2023-06-02, 19:44:01 Alarm Activated Door
+2023-06-02, 19:44:21 Alarm Deactivated Remote
+2023-06-02, 19:45:02 Alarm Activated Motion
+2023-06-02, 19:45:16 Alarm Deactivated Button Code
+2023-06-02, 19:50:58 Alarm Deactivated Remote
+2023-06-02, 19:57:35 Alarm Deactivated Button Code
+2023-06-02, 19:59:39 Low Security Trigger Door
+2023-06-02, 19:59:44 Low Security Trigger Door
+2023-06-02, 19:59:50 Low Security Trigger Door
+2023-06-02, 20:00:09 Low Security Trigger Motion
+2023-06-02, 20:00:18 Low Security Trigger Motion
+2023-06-02, 20:00:44 Alarm Activated Door
+2023-06-02, 20:00:55 Alarm Deactivated Remote
+2023-06-03, 02:49:18 Alarm Activated Door
+2023-06-03, 02:50:21 Alarm Activated Door
+2023-06-03, 02:50:39 Alarm Activated Door
+2023-06-03, 02:50:52 Alarm Activated Door
+2023-06-03, 02:51:08 Alarm Activated Door
+2023-06-03, 02:51:16 Alarm Activated Door
+2023-06-03, 02:51:43 Alarm Activated Door
+2023-06-03, 02:52:07 Alarm Deactivated Remote
+2023-06-03, 02:52:12 Alarm Activated Door
+2023-06-03, 02:52:22 Alarm Deactivated Remote
+2023-06-03, 02:53:18 Alarm Activated Motion
+2023-06-03, 02:55:29 Alarm Deactivated Button Code
+2023-06-03, 03:05:24 Alarm Activated Door
+2023-06-03, 03:05:33 Alarm Deactivated Button Code
+2023-06-03, 03:05:34 Alarm Activated Door
+2023-06-03, 03:05:47 Alarm Deactivated Button Code
+2023-06-03, 03:06:54 Alarm Activated Motion
+2023-06-03, 03:07:14 Alarm Deactivated Button Code
+2023-06-03, 03:09:16 Alarm Activated Remote
+2023-06-03, 03:09:29 Alarm Deactivated Button Code
+2023-06-03, 03:09:43 Alarm Activated Motion
+2023-06-03, 03:09:55 Alarm Deactivated Remote
+2023-06-03, 03:15:18 Alarm Activated Door
+2023-06-03, 03:17:25 Alarm Deactivated Button Code
+2023-06-03, 03:17:38 Alarm Activated Motion
+2023-06-03, 03:18:18 Alarm Deactivated Button Code
+2023-06-03, 03:20:16 Alarm Activated Door
+2023-06-03, 03:26:55 Alarm Deactivated Button Code
+2023-06-03, 03:28:02 Alarm Activated Door
+2023-06-03, 03:28:09 Alarm Deactivated Button Code
+2023-06-03, 03:28:32 Alarm Activated Door
+2023-06-03, 03:28:38 Alarm Deactivated Button Code
+2023-06-03, 03:29:24 Alarm Activated Motion
+2023-06-03, 03:29:33 Alarm Deactivated Button Code
+2023-06-03, 03:29:35 Alarm Activated Motion
+2023-06-03, 03:29:46 Alarm Deactivated Button Code
+2023-06-03, 03:29:47 Alarm Activated Motion
+2023-06-03, 03:29:59 Alarm Deactivated Button Code
+2023-06-03, 03:30:40 Alarm Activated Light
+2023-06-03, 03:31:06 Alarm Deactivated Button Code
+2023-06-04, 15:07:36 Alarm Activated Light
+2023-06-04, 15:14:29 Alarm Deactivated Button Code
+2023-06-04, 15:16:17 Alarm Activated Door
+2023-06-04, 15:21:35 Alarm Deactivated Remote
+2023-06-04, 15:33:44 Alarm Activated Light
+2023-06-04, 15:34:03 Alarm Deactivated Button Code
+2023-06-04, 15:34:33 Alarm Activated Door
+2023-06-04, 15:34:53 Alarm Deactivated Remote
+2023-06-04, 15:35:00 Alarm Activated Motion
+2023-06-04, 15:35:17 Alarm Deactivated Remote
+2023-06-04, 15:35:38 Alarm Activated Remote
+2023-06-04, 15:35:50 Alarm Deactivated Remote
+2023-06-04, 15:36:17 Alarm Activated Door
+2023-06-04, 15:37:21 Alarm Deactivated Button Code
+2023-06-04, 15:38:34 Alarm Activated Motion
+2023-06-04, 15:38:58 Alarm Deactivated Button Code
+2023-06-04, 15:39:48 Alarm Activated Motion
+2023-06-04, 15:39:58 Alarm Deactivated Button Code
+2023-06-04, 15:40:00 Alarm Activated Motion
+2023-06-04, 15:40:14 Alarm Deactivated Button Code
+2023-06-04, 15:40:16 Alarm Activated Motion
+2023-06-04, 15:40:29 Alarm Deactivated Button Code
+2023-06-04, 15:41:50 Alarm Activated Door
+2023-06-04, 15:42:12 Alarm Deactivated Button Code
+2023-06-04, 15:42:24 Alarm Activated Light
+2023-06-04, 15:42:41 Alarm Deactivated Remote
+2023-06-04, 15:42:57 Alarm Activated Motion
+2023-06-04, 15:43:07 Alarm Deactivated Remote
+2023-06-04, 15:43:49 Alarm Activated Light
+2023-06-04, 15:44:27 Alarm Deactivated Button Code
+2023-06-04, 15:44:43 Alarm Activated Light
+2023-06-04, 15:50:28 Alarm Deactivated Button Code
+2023-06-04, 15:51:04 Alarm Activated Light
+2023-06-04, 15:51:12 Alarm Deactivated Button Code
+2023-06-04, 15:52:57 Alarm Activated Light
+2023-06-04, 15:53:05 Alarm Deactivated Button Code
+2023-06-04, 15:53:59 Alarm Activated Door
+2023-06-04, 15:54:17 Alarm Deactivated Button Code
+2023-06-04, 15:54:29 Alarm Activated Light
+2023-06-04, 15:54:45 Alarm Deactivated Remote
+2023-06-04, 15:54:57 Alarm Activated Motion
+2023-06-04, 15:55:11 Alarm Deactivated Remote
+2023-06-04, 15:55:20 Alarm Activated Remote
+2023-06-04, 15:55:43 Alarm Deactivated Remote
+2023-06-04, 15:56:41 Alarm Activated Door
+2023-06-04, 15:56:51 Alarm Deactivated Remote
+2023-06-04, 15:57:11 Low Security Trigger Door
+2023-06-04, 15:57:13 Low Security Trigger Door
+2023-06-04, 15:57:20 Low Security Trigger Door
+2023-06-04, 15:57:27 Low Security Trigger Motion
+2023-06-04, 15:57:33 Low Security Trigger Motion
+2023-06-04, 15:57:39 Low Security Trigger Light
+2023-06-04, 15:57:53 Alarm Activated Door
+2023-06-04, 15:58:07 Alarm Deactivated Button Code
